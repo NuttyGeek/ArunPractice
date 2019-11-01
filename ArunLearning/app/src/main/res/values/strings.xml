@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArunLearning</string>
+    <string name="button_text">Click Me</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
